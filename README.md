@@ -79,7 +79,7 @@ Campos da tabela:
 Clone o repositório:
 
 ```bash
-git clone <link-do-repositorio>
+git clone [<link-do-repositorio>](https://github.com/KaliTonny/api-construmais)
 ```
 
 Entre na pasta:
